@@ -13,7 +13,7 @@ This tool was expanded upon a legacy helpdesk script. Parts that were not author
 The utility is structured around an interactive command-line interface organized into two primary operational domains:
 ### Active Directory Governance & Onboarding
 * **(2) Machine Management:** View machine OUs and AD memberships; configure GPOs, manage BitLocker encryption states and Entra ID key sync, apply security registry keys, and adjust organizational units for patch management.
-* **(3) User Lifecycle & Provisioning:** Automate new hire onboarding, set up multi-field Active Directory attributes, generate department-specific first-day login guides, and export formatted IT inventory/ticket templates.
+* **(3) User Lifecycle & Provisioning:** Automate new hire onboarding, set up multi-field Active Directory attributes, generate laptop checklist for new build and audit compliance, generate department-specific first-day login guides, and export formatted IT inventory/ticket templates.
 * **(4) Profile Metadata & Signatures:** Bulk-update employee Gallup strengths, MBTI types, and professional designations via clipboard parsing with built-in data validation.
 * **(5) Authentication & Credentials:** Query real-time password expiration timestamps and last recorded successful sign-in dates.
 ### Endpoint Security & Operations (Remote/Local)
