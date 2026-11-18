@@ -1,4 +1,4 @@
-# Endpoint Compliance & Administration Assistant
+# Endpoint Administration and Compliance Assistant
 
 ## Overview
 This repository contains a modular PowerShell CLI utility designed for Active Directory governance, remote endpoint management, and security agent lifecycle validation. 
