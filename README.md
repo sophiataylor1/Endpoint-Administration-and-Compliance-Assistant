@@ -2,6 +2,7 @@
 
 ## Overview
 This repository contains a modular PowerShell CLI utility designed for Active Directory governance, remote endpoint management, and security agent lifecycle validation. 
+
 **Context & Scope:** 
 This tool was expanded upon a legacy helpdesk script. Parts that were not authored by me have been removed.
 ## Security & Operational Considerations
